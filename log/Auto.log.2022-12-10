@@ -1,0 +1,5 @@
+10/12/2022 11:05:23 [main] INFO  com.ent.test.log[12] - Hello Akki
+10/12/2022 11:13:45 [main] INFO  com.ent.test.Data_Test[18] - Driver
+10/12/2022 11:13:55 [main] INFO  com.ent.test.Data_Test[20] - Initializa
+10/12/2022 22:10:54 [main] INFO  com.ent.test.Data_Test[18] - Driver
+10/12/2022 22:11:13 [main] INFO  com.ent.test.log[12] - Hello Akki
